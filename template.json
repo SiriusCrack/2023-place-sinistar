@@ -1,7 +1,7 @@
 {
 	"contact": "@siriuscrack",
 	"templates": [{
-		"name": "Sinistar",
+		"name": "ministar",
 		"sources": [
 			"https://raw.githubusercontent.com/SiriusCrack/2023-place-sinistar/main/smallistar_place.png"
 		],
