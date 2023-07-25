@@ -1,0 +1,13 @@
+{
+	"contact": "@siriuscrack",
+	"templates": [{
+		"name": "Sinistar",
+		"sources": [
+			"https://cdn.discordapp.com/attachments/1059053703589544017/1133288200962592869/smallistar_place.png"
+		],
+		"x": 2575,
+		"y": 241
+	}],
+	"whitelist": [],
+	"blacklist": []
+}
