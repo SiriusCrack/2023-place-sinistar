@@ -3,10 +3,10 @@
 	"templates": [{
 		"name": "ministar",
 		"sources": [
-			"https://raw.githubusercontent.com/SiriusCrack/2023-place-sinistar/main/smallistar_place.png"
+			"https://raw.githubusercontent.com/SiriusCrack/2023-place-sinistar/main/laser_ministar.png"
 		],
-		"x": 2575,
-		"y": 241
+		"x": 2574,
+		"y": 240
 	}],
 	"whitelist": [],
 	"blacklist": []
